@@ -1,0 +1,64 @@
+.page-header {
+    border: 3px solid black;
+    color:rosybrown;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 auto;
+    height: 160px;
+    width: 500px;
+}
+.GetStarted {
+    border: 3px solid black;
+    color: plum;
+    font-size:35px;
+    text-align: center;
+    margin: 0 auto;
+    height: 70px;
+    width: 500px;
+
+}
+.underscores {
+    border: 3px solid black;
+    font-size: 60px;
+    text-align: center;
+    margin: 0 auto;
+    height: 110px;
+    width: 500px;
+}
+.Wins {
+    border: 3px solid black;
+    font-size: 25px;
+    color:rosybrown;
+    text-align: center;
+    margin: 0 auto;
+    height:80px;
+    width:500px;
+}
+.CurrentWord {
+    border: 3px solid black;
+    font-size: 25px;
+    color:black;
+    text-align: center;
+    margin: 0 auto;
+    height: 90px;
+    width:500px;
+
+}
+.GuessesRemaining {
+    border: 3px solid black;
+    font-size: 25px;
+    text-align: center;
+    color: plum;
+    margin: 0 auto;
+    height: 80px;
+    width:500px;
+}
+.LettersAlreadyGuessed {
+    border: 3px solid black;
+    font-size: 25px;
+    text-align: center;
+    color: rosybrown;
+    margin: 0 auto;
+    height:80px;
+    width:500px;
+}
